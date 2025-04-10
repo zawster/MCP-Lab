@@ -9,8 +9,8 @@ A collection of structured experiments, tools, and prototypes using Model Contex
 Since Anthropic doesn’t officially support a native Claude desktop app, most people use web wrappers or Electron apps to create a desktop experience. Here's how you can do it using included shell script:
 
 ```bash
-chmod +x install_claude_desktop.sh
-./install_claude_desktop.sh
+chmod +x install_debian_claude.sh
+./install_debian_claude.sh
 ```
 
 ---
