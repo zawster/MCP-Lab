@@ -1,0 +1,14 @@
+[project]
+name = "weather"
+version = "0.1.0"
+description = "weather check server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+    "requests>=2.32.3",
+]
+
+[project.scripts]
+weather = "weather:main"
