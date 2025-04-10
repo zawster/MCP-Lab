@@ -31,7 +31,7 @@ code ~/Library/Application\ Support/Claude/claude_desktop_config.json
 
 Example configuration for a weather tool:
 
-\`\`\`json
+```json
 {
   "mcpServers": {
     "weather": {
@@ -43,9 +43,9 @@ Example configuration for a weather tool:
     }
   }
 }
-\`\`\`
+```
 
-> ⚠️ Replace `/ABSOLUTE_PATH/TO/PARENT/FOLDER/weather` with the actual absolute path on your system where you have your tools configured.
+> Replace `/ABSOLUTE_PATH/TO/PARENT/FOLDER/weather` with the actual absolute path on your system where you have your tools configured.
 
 ---
 
