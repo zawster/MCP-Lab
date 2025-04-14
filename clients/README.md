@@ -1,6 +1,6 @@
 # Custom MCP Clients using Python
 
-This folder contains all the MCP clients related work.
+This repo folder contains all the MCP clients related work.
 
 ---
 
